@@ -1,20 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DP Tagebuch</title>
-    <link>http://example.org/</link>
+    <link>/</link>
     <description>Recent content on DP Tagebuch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 08 Nov 2022 23:57:34 +0900</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Nov 2022 00:11:24 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022 11 12 Post</title>
+      <link>/posts/2022-11-12-post/</link>
+      <pubDate>Sat, 12 Nov 2022 00:11:24 +0900</pubDate>
+      
+      <guid>/posts/2022-11-12-post/</guid>
+      <description>Was ich heute gemacht habe:
+ Lesen Sie ein wenig mehr von dem Lehrbuch , das Ihnen die Klasse zugewiesen hat. Besuch des Restaurants Ramen Jiro Nakayama 7km im Trainingsraum gelaufen  Nachdem ich eine E-Mail an alle Labormitglieder geschickt habe , werde ich ein wenig recherchieren, und das ist alles, was ich heute zu tun habe&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>2022 11 11 Post</title>
+      <link>/posts/2022-11-11-post/</link>
+      <pubDate>Fri, 11 Nov 2022 00:13:10 +0900</pubDate>
+      
+      <guid>/posts/2022-11-11-post/</guid>
+      <description>Mogens nahm er am Unterreicht teil. Ich habe mein Wissen noch nicht aufgeholt , deshalb moechte ich es spaeter noch einmal ueberpruefen unf nachholen.
+Den groessten Teil des Nachmittags verbrachten wir mit Schlafen. Ich erinnere mich nicht mehran viel von dem, was ivh getan habe. Ich fange jezt an, fuer meine Forschung unf fuer meine Kurse zu lernen.</description>
+    </item>
+    
+    <item>
+      <title>2022 11 10 Post</title>
+      <link>/posts/2022-11-10-post/</link>
+      <pubDate>Thu, 10 Nov 2022 00:50:10 +0900</pubDate>
+      
+      <guid>/posts/2022-11-10-post/</guid>
+      <description>In diesem Abschnit wird beschrieben , was wir am 9.Oktober (gestern) getan haben.
+ Zum Fruehstueck gab es Reis mit Mekabu. Ich bin heute zur Teilzeitarbeit gegangen. Ich habe ein ganzes Kapitel des Mangas &amp;ldquo;Chainsaw Man&amp;rdquo; in einer Sitzung gelesen.  Mir bleibt weniger als eine Woche bis zum regulaeren Forschungstreffen, also werde ich mich gut auch sir Praesentation vorbereiten. Heute gibt es keine technische Wachstum.</description>
+    </item>
+    
+    <item>
+      <title>2022 11 09 Post</title>
+      <link>/posts/2022-11-09-post/</link>
+      <pubDate>Wed, 09 Nov 2022 00:46:58 +0900</pubDate>
+      
+      <guid>/posts/2022-11-09-post/</guid>
+      <description>Ich bin Student in Tokio. Ich bin Japaner. Was wir heute gemacht haben
+ Ein Tagebuch beginnen Vierte Impfung  Ich gehe morgen in Teilzeit arbeiten.</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Tue, 08 Nov 2022 23:57:34 +0900</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>My first post
-日記を作りました。 一日にやったことを書いていきます。 こちらはtodoでも結構でございます。よろしくお願いいたします。</description>
+      <guid>/posts/my-first-post/</guid>
+      <description>日記を作りました。 一日にやったことを書いていきます。 こちらはtodoでも結構でございます。よろしくお願いいたします。</description>
     </item>
     
   </channel>

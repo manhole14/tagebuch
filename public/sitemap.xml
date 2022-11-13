@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/posts/2022-11-12-post/</loc>
+    <lastmod>2022-11-12T00:11:24+09:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-11-12T00:11:24+09:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2022-11-12T00:11:24+09:00</lastmod>
+  </url><url>
+    <loc>/posts/2022-11-11-post/</loc>
+    <lastmod>2022-11-11T00:13:10+09:00</lastmod>
+  </url><url>
+    <loc>/posts/2022-11-10-post/</loc>
+    <lastmod>2022-11-10T00:50:10+09:00</lastmod>
+  </url><url>
+    <loc>/posts/2022-11-09-post/</loc>
+    <lastmod>2022-11-09T00:46:58+09:00</lastmod>
+  </url><url>
+    <loc>/posts/my-first-post/</loc>
     <lastmod>2022-11-08T23:57:34+09:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
-  
-  <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2022-11-08T23:57:34+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2022-11-08T23:57:34+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
-  </url>
-  
 </urlset>
